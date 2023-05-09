@@ -1,0 +1,2 @@
+# Maze
+uhh simple maze
